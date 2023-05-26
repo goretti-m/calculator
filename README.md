@@ -22,8 +22,10 @@ This is a simple calculator app built with HTML, CSS, and JavaScript. It provide
 4. Toggle between light and dark mode using the "Toggle Mode" button.
 
 ## Screenshots
-![Light Mode](screenshots/light_mode.png)
-![Dark Mode](screenshots/dark_mode.png)
+| Light Mode | Dark Mode |
+|:---:|:---:|
+| ![Light Mode](screenshots/light_mode.png) | ![Dark Mode](screenshots/dark_mode.png) |
+
 
 ## Acknowledgements
 - Built using the knowledge and skills acquired from online tutorials and resources.
