@@ -1,4 +1,4 @@
-# <align="center">Calculator App
+<h1 align="center">Calulator App</h1>
 
 ## Overview
 This is a simple calculator app built with HTML, CSS, and JavaScript. It provides basic arithmetic operations and a toggleable light and dark mode feature.
